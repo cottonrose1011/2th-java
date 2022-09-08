@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="java.time.Period"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="Under"/>
-    <fullyQualifiedTypeName name="MS"/>
     <fullyQualifiedTypeName name="java.text.Format"/>
     <fullyQualifiedTypeName name="Graduate"/>
     <fullyQualifiedTypeName name="PhD"/>
@@ -51,13 +46,18 @@
     <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="fileTest.FileTest"/>
     <fullyQualifiedTypeName name="triangle.Triangle"/>
     <fullyQualifiedTypeName name="java.util.IllegalFormatWidthException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.security.NoSuchProviderException"/>
     <fullyQualifiedTypeName name="die.Die"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Profile"/>
+    <fullyQualifiedTypeName name="fileTest.FileTest"/>
+    <fullyQualifiedTypeName name="KmToMile"/>
+    <fullyQualifiedTypeName name="java.security.NoSuchProviderException"/>
+    <fullyQualifiedTypeName name="cicle.Circle"/>
+    <fullyQualifiedTypeName name="java.util.zip.CRC32"/>
+    <fullyQualifiedTypeName name="rectangle.Rectangle"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.HTMLReader.HiddenAction"/>
 </qualifiedTypeNameHistroy>

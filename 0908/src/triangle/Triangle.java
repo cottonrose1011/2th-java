@@ -17,10 +17,7 @@ public class Triangle {
 	
 	public void area() {
 		double t_area = width*height/2;
-		if(t_area <= 0) {
-			System.out.println("0 이하일 수 없음.");
-		}
-		else System.out.println("삼각형의 면적: "+t_area);
+		System.out.println("삼각형의 면적: "+t_area);
 	}
 	
 	public double getWidth() {
@@ -33,6 +30,10 @@ public class Triangle {
 		return height;
 	}
 	public void setHeight(double height) {
-		this.height = height;
+		if(height <= 0) {
+			this.height = 1;
+			System.out.println("0 이하일 수 없음.");
+		}
+		else this.height = height;
 	}
 }

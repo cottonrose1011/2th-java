@@ -1,0 +1,19 @@
+
+public class ProfileDirver {
+
+	public static void main(String[] args) {
+		Profile profile = new Profile();
+		Profile profile2 = new Profile("홍길동","경성대학교","소프트웨어",2);
+		Profile profile3 = new Profile();
+		
+		profile.show();
+		System.out.println("\n----------프로필 변경----------\n");
+		profile2.show();
+		profile.setGrade(4);
+		profile.setName("안효진");
+		profile.setUniv("경상대학교");
+		profile.setMajor("화학공학과");
+		profile.show();
+	}
+
+}
