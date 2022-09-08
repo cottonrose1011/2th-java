@@ -1,0 +1,11 @@
+import Gugudan;
+
+public class GuguanDriver {
+
+	public static void main(String[] args) {
+		Gugudan gugudan = new Gugudan();
+		gugudan.go();
+
+	}
+
+}
