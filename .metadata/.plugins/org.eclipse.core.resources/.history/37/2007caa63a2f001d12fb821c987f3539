@@ -1,0 +1,10 @@
+package triangle;
+
+public class TriangleDriver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

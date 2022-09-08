@@ -1,0 +1,12 @@
+
+public class ProfileDirver {
+
+	public static void main(String[] args) {
+		Profile profile = new Profile();
+		Profile profile2 = new Profile();
+		
+		profile.show();
+
+	}
+
+}
