@@ -1,0 +1,44 @@
+package shape;
+
+public class Rectangle extends Shape{
+	protected double width;
+	protected double height;
+	
+	public Rectangle() {
+		this(0.0, 0.0);
+	}
+	public Rectangle(double width, double height) {
+		this.width = width;
+		this.height = height;
+	}
+	
+	@Override
+	public void area() {
+		double area;
+		area = width*height;
+		System.out.println(area);
+	}
+
+	public double getWidth() {
+		return width;
+	}
+
+
+	public void setWidth(double width) {
+		this.width = width;
+	}
+
+
+	public double getHeight() {
+		return height;
+	}
+
+
+	public void setHeight(double height) {
+		this.height = height;
+	}
+
+
+	
+	
+}

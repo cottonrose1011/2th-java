@@ -1,0 +1,11 @@
+package zoo;
+
+public class Zoo {
+	public void go() {
+		Lion lion = new Lion();
+		lion.makeSound();
+		
+		Cat cat = new Cat();
+		cat.makeSound();
+	}
+}

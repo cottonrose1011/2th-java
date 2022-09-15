@@ -1,0 +1,15 @@
+package flower;
+
+public class Flower {
+	protected String color="";
+	
+	public Flower() {
+		super();
+	}
+	public void printColor() {
+		System.out.println(color);
+	}
+	
+	
+	
+}

@@ -1,0 +1,22 @@
+package zoo;
+
+public class Animal {
+	String sound="";
+
+	//methods
+	public void makeSound() {
+		System.out.println(sound);
+	}
+	public Animal() {
+		super();
+	}
+	public String getSound() {
+		return sound;
+	}
+
+	public void setSound(String sound) {
+		this.sound = sound;
+	}
+	
+
+}
