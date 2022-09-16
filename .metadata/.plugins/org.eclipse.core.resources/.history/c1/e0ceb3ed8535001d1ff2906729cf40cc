@@ -1,0 +1,12 @@
+package major;
+
+public class ComputerScience extends Major{
+	protected String major = "";
+	
+	public ComputerScience(String undergraduate) {
+		this.undergraduate = undergraduate;
+	}
+	public ComputerScience() {
+		this("ComputerScience ");
+	}
+}

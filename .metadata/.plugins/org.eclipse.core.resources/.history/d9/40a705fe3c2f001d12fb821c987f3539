@@ -1,6 +1,0 @@
-package die;
-
-public class Die {
-	private int spot1 = 6;
-
-}

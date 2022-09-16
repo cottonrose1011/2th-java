@@ -1,0 +1,6 @@
+package major;
+
+public class ComputerScience extends Major{
+	
+	protected String undergraduate = "";
+}

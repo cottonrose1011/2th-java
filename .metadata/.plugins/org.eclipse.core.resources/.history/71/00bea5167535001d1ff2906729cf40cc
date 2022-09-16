@@ -1,0 +1,9 @@
+package book;
+
+public class Book {
+	protected String genre = "";
+	
+	public void printGenre() {
+		System.out.println(genre);
+	}
+}

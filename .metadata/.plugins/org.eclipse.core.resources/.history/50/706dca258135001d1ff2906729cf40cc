@@ -1,0 +1,10 @@
+package vehicle;
+
+public class Vehicle {
+	protected String time="";
+	
+	public void requiredTime() {
+		System.out.println(time);
+	}
+
+}

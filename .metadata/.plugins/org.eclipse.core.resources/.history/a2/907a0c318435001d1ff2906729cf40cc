@@ -1,0 +1,6 @@
+package major;
+
+public abstract class Major {
+	protected String undergraduate="";
+	
+}

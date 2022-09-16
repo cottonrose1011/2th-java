@@ -1,0 +1,5 @@
+package major;
+
+public abstract class ComputerScience extends Major{
+	
+}

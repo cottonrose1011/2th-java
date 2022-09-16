@@ -1,0 +1,18 @@
+package major;
+
+public class AI extends ComputerScience{
+	public AI(String undergraduate, String major) {
+		super(undergraduate, major);
+	}
+	
+	public AI() {
+		
+		this("Computerscience","major");
+	}
+	
+	@Override
+	public void printMajor() {
+		System.out.println(undergraduate+", "+major);
+	}
+
+}

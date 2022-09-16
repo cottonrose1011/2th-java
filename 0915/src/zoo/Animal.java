@@ -10,11 +10,4 @@ public class Animal {
 	public Animal() {
 		super();
 	}
-	public String getSound() {
-		return sound;
-	}
-
-	public void setSound(String sound) {
-		this.sound = sound;
-	}
 }
