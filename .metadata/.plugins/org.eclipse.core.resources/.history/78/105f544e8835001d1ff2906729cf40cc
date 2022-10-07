@@ -1,9 +1,0 @@
-package major;
-
-public abstract class Major {
-	protected String undergraduate="";
-	protected String major = "";
-	
-	public abstract void printMajor();
-	
-}

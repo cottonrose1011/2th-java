@@ -1,5 +1,0 @@
-package fighter;
-
-public class KF21 extends Fighter{
-
-}

@@ -1,5 +1,0 @@
-package major;
-
-public class AI extends ComputerScience{
-
-}

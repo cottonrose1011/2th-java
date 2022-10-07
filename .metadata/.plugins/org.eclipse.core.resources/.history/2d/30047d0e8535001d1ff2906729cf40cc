@@ -1,6 +1,0 @@
-package major;
-
-public class Major {
-	protected String undergraduate="";
-	
-}

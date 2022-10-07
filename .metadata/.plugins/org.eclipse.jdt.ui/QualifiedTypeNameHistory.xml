@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Void"/>
-    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="triangle.Triangle"/>
-    <fullyQualifiedTypeName name="java.util.IllegalFormatWidthException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="die.Die"/>
-    <fullyQualifiedTypeName name="Profile"/>
-    <fullyQualifiedTypeName name="fileTest.FileTest"/>
-    <fullyQualifiedTypeName name="KmToMile"/>
-    <fullyQualifiedTypeName name="java.security.NoSuchProviderException"/>
-    <fullyQualifiedTypeName name="cicle.Circle"/>
-    <fullyQualifiedTypeName name="java.util.zip.CRC32"/>
-    <fullyQualifiedTypeName name="rectangle.Rectangle"/>
-    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.HTMLReader.HiddenAction"/>
-    <fullyQualifiedTypeName name="zoo.Zoo"/>
-    <fullyQualifiedTypeName name="flower.Rose"/>
-    <fullyQualifiedTypeName name="flower.Flower"/>
-    <fullyQualifiedTypeName name="flower.Cosmos"/>
-    <fullyQualifiedTypeName name="zoo.Cat"/>
     <fullyQualifiedTypeName name="zoo.Lion"/>
     <fullyQualifiedTypeName name="zoo.Animal"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
@@ -48,10 +27,7 @@
     <fullyQualifiedTypeName name="javax.swing.TransferHandler"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="thread.MyThread"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
     <fullyQualifiedTypeName name="duck.NoFly"/>
     <fullyQualifiedTypeName name="duck.FlyWell"/>
@@ -60,4 +36,28 @@
     <fullyQualifiedTypeName name="duck.RedHeadDuck"/>
     <fullyQualifiedTypeName name="duck.FlyStyle"/>
     <fullyQualifiedTypeName name="duck.Duck"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="war.AxeStyle"/>
+    <fullyQualifiedTypeName name="war.WeaponStyle"/>
+    <fullyQualifiedTypeName name="war.KnifeStyle"/>
+    <fullyQualifiedTypeName name="war.Queen"/>
+    <fullyQualifiedTypeName name="war.King"/>
+    <fullyQualifiedTypeName name="war.Character"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="score.Score"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="score3.Score"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.awt.desktop.ScreenSleepEvent"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="bank.Bank"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.MethodHandles.Lookup"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="bank.Bank.Account"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

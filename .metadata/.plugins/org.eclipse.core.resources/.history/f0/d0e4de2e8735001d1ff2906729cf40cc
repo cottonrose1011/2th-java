@@ -1,7 +1,0 @@
-package major;
-
-public abstract class Major {
-	
-	public abstract void printMajor();
-	
-}
