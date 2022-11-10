@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="book.TheGreatGastsby"/>
-    <fullyQualifiedTypeName name="book.TheOldManAndTheSea"/>
-    <fullyQualifiedTypeName name="book.Book"/>
-    <fullyQualifiedTypeName name="starbucks.Americano"/>
-    <fullyQualifiedTypeName name="starbucks.Latte"/>
-    <fullyQualifiedTypeName name="starbucks.Starbucks"/>
-    <fullyQualifiedTypeName name="fighter.F22"/>
-    <fullyQualifiedTypeName name="fighter.KF21"/>
-    <fullyQualifiedTypeName name="fighter.Fighter"/>
-    <fullyQualifiedTypeName name="vehicle.Vehicle"/>
-    <fullyQualifiedTypeName name="vehicle.Car"/>
-    <fullyQualifiedTypeName name="vehicle.Ktx"/>
     <fullyQualifiedTypeName name="vehicle.VehicleDriver"/>
     <fullyQualifiedTypeName name="major.Major"/>
     <fullyQualifiedTypeName name="major.AI"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="major.ComputerScience"/>
     <fullyQualifiedTypeName name="javax.swing.TransferHandler"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="thread.MyThread"/>
     <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
@@ -36,12 +23,9 @@
     <fullyQualifiedTypeName name="war.Queen"/>
     <fullyQualifiedTypeName name="war.King"/>
     <fullyQualifiedTypeName name="war.Character"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="score.Score"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="score3.Score"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.awt.desktop.ScreenSleepEvent"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
@@ -60,4 +44,20 @@
     <fullyQualifiedTypeName name="upSearch.UpSearch"/>
     <fullyQualifiedTypeName name="upSearch.UpSearch.Word"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="cellGame.CellGameDriver"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics"/>
+    <fullyQualifiedTypeName name="cellGame.CellGame.GamePanel"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+    <fullyQualifiedTypeName name="java.lang.Enum"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="cellGame.CellGame.GameKeyListener"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="cellGame.CellGame"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="cellGame.CellGame.Jewels"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
