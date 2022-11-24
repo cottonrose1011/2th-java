@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.swing.TransferHandler"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="thread.MyThread"/>
-    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
-    <fullyQualifiedTypeName name="duck.NoFly"/>
-    <fullyQualifiedTypeName name="duck.FlyWell"/>
-    <fullyQualifiedTypeName name="duck.DuckDriver"/>
-    <fullyQualifiedTypeName name="duck.MallardDuck"/>
-    <fullyQualifiedTypeName name="duck.RedHeadDuck"/>
-    <fullyQualifiedTypeName name="duck.FlyStyle"/>
-    <fullyQualifiedTypeName name="duck.Duck"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
-    <fullyQualifiedTypeName name="war.AxeStyle"/>
-    <fullyQualifiedTypeName name="war.WeaponStyle"/>
     <fullyQualifiedTypeName name="war.KnifeStyle"/>
     <fullyQualifiedTypeName name="war.Queen"/>
     <fullyQualifiedTypeName name="war.King"/>
@@ -35,7 +21,6 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="upSearch.UpSearch"/>
     <fullyQualifiedTypeName name="upSearch.UpSearch.Word"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -51,13 +36,28 @@
     <fullyQualifiedTypeName name="javax.swing.JPanel"/>
     <fullyQualifiedTypeName name="java.awt.Graphics"/>
     <fullyQualifiedTypeName name="snakeGame.SnakeGame.GamePanel"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
-    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
     <fullyQualifiedTypeName name="snakeGame.SnakeGame.GameListener"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.awt.Color"/>
     <fullyQualifiedTypeName name="snakeGame.SnakeGame.Madi"/>
+    <fullyQualifiedTypeName name="cacao.CacaoDriver"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="cacao.Observer"/>
+    <fullyQualifiedTypeName name="cacao.CacaoApp"/>
+    <fullyQualifiedTypeName name="cacao.CacaoServer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.Panel"/>
+    <fullyQualifiedTypeName name="java.awt.Container"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="cacao.Server"/>
+    <fullyQualifiedTypeName name="cacao.CacaoApp.MyListener"/>
 </qualifiedTypeNameHistroy>
